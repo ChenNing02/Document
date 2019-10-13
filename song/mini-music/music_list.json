@@ -1,0 +1,34 @@
+[ 
+    {
+        "id": "0",
+        "title": "情深深雨蒙蒙",
+        "author": "杨胖雨",
+        "albumn": "情深深雨蒙蒙",
+        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_情深深雨蒙蒙.json",
+        "url": "https://chenning02.github.io/Document/song/mini-music/情深深雨濛濛.mp3"
+    },
+    {
+        "id": "1",
+        "title": "Midnight",
+        "author": "凯瑟喵",
+        "albumn": "Midnight ",
+        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_Midnight.json",
+        "url": "https://chenning02.github.io/Document/song/mini-music/Midnight.mp3"
+    },
+    {
+        "id": "2",
+        "title": "夏日循环",
+        "author": "熙er",
+        "albumn": "夏日循环",
+        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_夏日循环.json",
+        "url": "https://chenning02.github.io/Document/song/mini-music/夏日循环.mp3"
+    },
+    {
+        "id": "3",
+        "title": "用尽一切奔向你",
+        "author": "凯瑟喵",
+        "albumn": "用尽一切奔向你",
+        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_用尽一切奔向你.json",
+        "url": "https://chenning02.github.io/Document/song/mini-music/用尽一切奔向你.mp3"
+    }
+]
