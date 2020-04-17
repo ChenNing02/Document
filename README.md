@@ -3,6 +3,8 @@
 ```http
 # 我的图片地址
 https://chenning02.github.io/Document/images/xxx.jpg
+# 我的博客地址
+https://chenning02.github.io/Document/blog-img/xxx.jpg
 # 转载博客图片
 https://chenning02.github.io/Document/others/xxx.jpg
 ```
