@@ -1,0 +1,12 @@
+
+# 判断第一个参数是否存在，-z表示第一个参数的长度为0，也就是不存在
+# 如果不存在，就将title的值命名为：日期+blog+当前时间 的格式创建
+# 如果存在，就将title的值命名为：日期+参数 的格式创建
+if [ -z $1 ];then
+%Y-%m-%d %H:%m:%S
+title="`date +"%Y-%m-%d-blog%H%M%S"`"
+else
+title="`date +"%Y-%m-%d"`-$1"
+fi
+
+touch blog/"${title}.md"
