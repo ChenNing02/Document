@@ -1,20 +1,23 @@
-## 图片地址
+## 说明
+
+用于存放图片等可预览文件
+
+### 图片地址示例
 
 ```http
-# 我的图片地址
+# 图片地址
 https://chenning02.github.io/Document/images/xxx.jpg
-# 我的日记地址
+# 日记地址
 https://chenning02.github.io/Document/diary-img/xxx.jpg
-# 我的博客地址
+# 博客地址
 https://chenning02.github.io/Document/blog-img/xxx.jpg
-# 转载博客图片
+# 转载图片
 https://chenning02.github.io/Document/others/xxx.jpg
 ```
 
-## 第三方库
+### 其他文件
 
 ```http
-# jQuery
-https://chenning02.github.io/Document/base/jquery/jquery-3.4.1.min.js
+https://chenning02.github.io/Document/base/xxx
 ```
 
