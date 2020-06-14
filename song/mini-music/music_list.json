@@ -10,6 +10,51 @@
     },
     {
         "id": "1",
+        "title": "山楂树之恋",
+        "img": "https://chenning02.github.io/Document/song/mini-music/img/szszl.jpg",
+        "author": "程佳佳",
+        "albumn": "山楂树之恋 (完整版)",
+        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_hawthorn.json",
+        "url": "https://chenning02.github.io/Document/song/mini-music/hawthorn.mp3"
+    },
+    {
+        "id": "2",
+        "title": "热勇",
+        "img": "https://chenning02.github.io/Document/song/mini-music/img/zealous-brave.jpg",
+        "author": "栗先达",
+        "albumn": "热勇",
+        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_zealous-brave.json",
+        "url": "https://chenning02.github.io/Document/song/mini-music/zealous-brave.mp3"
+    },
+    {
+        "id": "3",
+        "title": "我要找到你",
+        "img": "https://chenning02.github.io/Document/song/mini-music/img/wyzdn.jpg",
+        "author": "Zic子晨",
+        "albumn": "我要找到你",
+        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_I-want-to-find-you.json",
+        "url": "https://chenning02.github.io/Document/song/mini-music/I-want-to-find-you.mp3"
+    },
+    {
+        "id": "4",
+        "title": "谎",
+        "img": "https://chenning02.github.io/Document/song/mini-music/img/lie-ksm.jpg",
+        "author": "凯瑟喵",
+        "albumn": "谎（无念白版）",
+        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_lie-ksm.json",
+        "url": "https://chenning02.github.io/Document/song/mini-music/lie-ksm.mp3"
+    },
+    {
+        "id": "5",
+        "title": "用尽一切奔向你",
+        "img": "https://chenning02.github.io/Document/song/mini-music/img/yjyqbxn.jpg",
+        "author": "凯瑟喵",
+        "albumn": "用尽一切奔向你",
+        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_用尽一切奔向你.json",
+        "url": "https://chenning02.github.io/Document/song/mini-music/用尽一切奔向你.mp3"
+    },
+    {
+        "id": "6",
         "title": "Midnight",
         "img": "https://chenning02.github.io/Document/song/mini-music/img/midnight.jpg",
         "author": "凯瑟喵",
@@ -18,21 +63,12 @@
         "url": "https://chenning02.github.io/Document/song/mini-music/Midnight.mp3"
     },
     {
-        "id": "2",
+        "id": "7",
         "title": "夏日循环",
         "img": "https://chenning02.github.io/Document/song/mini-music/img/xrxh.jpg",
         "author": "熙er",
         "albumn": "夏日循环",
         "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_夏日循环.json",
         "url": "https://chenning02.github.io/Document/song/mini-music/夏日循环.mp3"
-    },
-    {
-        "id": "3",
-        "title": "用尽一切奔向你",
-        "img": "https://chenning02.github.io/Document/song/mini-music/img/yjyqbxn.jpg",
-        "author": "凯瑟喵",
-        "albumn": "用尽一切奔向你",
-        "lyric": "https://chenning02.github.io/Document/song/mini-music/lyric_用尽一切奔向你.json",
-        "url": "https://chenning02.github.io/Document/song/mini-music/用尽一切奔向你.mp3"
     }
 ]
